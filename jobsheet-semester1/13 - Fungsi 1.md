@@ -1,6 +1,6 @@
-Nama  : M. Muizzuddin Rifqi
-Kelas : 1E / 14
-NIM   : 2141720027
+// Nama  : M. Muizzuddin Rifqi
+// Kelas : 1E / 14
+// NIM   : 2141720027
 
 # JOBSHEET 13. Fungsi 1
 
